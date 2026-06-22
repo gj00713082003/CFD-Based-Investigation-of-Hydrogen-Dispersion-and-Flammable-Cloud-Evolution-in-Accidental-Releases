@@ -269,42 +269,6 @@ The concentration distribution is used to identify regions susceptible to igniti
 
 ---
 
-## Repository Structure
-
-Hydrogen-Dispersion-CFD/
-
-├── geometry/
-
-├── mesh/
-
-├── setup/
-
-├── simulations/
-
-│ ├── steady_state/
-
-│ └── transient/
-
-├── results/
-
-│ ├── contours/
-
-│ ├── streamlines/
-
-│ ├── velocity/
-
-│ └── flammable_cloud/
-
-├── plots/
-
-├── literature/
-
-├── docs/
-
-└── README.md
-
----
-
 ## Applications
 
 * Hydrogen Storage Safety
