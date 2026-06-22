@@ -1,0 +1,2 @@
+# CFD-Based-Investigation-of-Hydrogen-Dispersion-and-Flammable-Cloud-Evolution-in-Accidental-Releases
+CFD assisted investigation of hydrogen (H₂) leakage and dispersion in enclosed environments using ANSYS . The project focuses on predicting hydrogen concentration distribution, buoyancy-driven plume behavior, flammable cloud formation (4–78% H₂ by volume), and associated hazards under various ventilation scenarios under steady-state and transient.
